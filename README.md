@@ -1,4 +1,4 @@
-# Python Nmap Port Scanner
+# Nmap Port Scanning Automation with Python Scripts
 
 This guide will walk you through using a simple Python script to scan for open ports on a target IP address using the `nmap` library. The script will then generate a text file report with the scan results.
 
