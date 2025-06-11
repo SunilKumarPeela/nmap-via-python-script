@@ -86,4 +86,14 @@ Report generated 2025-06-11_03:20:00 GMT
 
 This indicates that the host at the specified IP address is online, and port 80 is open. The report also includes the time the scan was generated.
 
-*You can add your screenshot of the report file here. Upload the image to your GitHub repo and use the following format: `![Viewing the report](link/to/your/image.png)`*
+![Viewing the report](https://github.com/SunilKumarPeela/Images/blob/main/nmappython1.png)
+
+---
+
+![Viewing the report](https://github.com/SunilKumarPeela/Images/blob/main/nmapython2.png)
+
+---
+
+![Viewing the report](https://github.com/SunilKumarPeela/Images/blob/main/nmappython3.png)
+
+
